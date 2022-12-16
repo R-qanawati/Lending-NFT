@@ -37,5 +37,6 @@ Finally reseting the lending phase and returning ownership.
 
 ## THE NFT NEVER LEAVES
 
-This is a pseudo loan technique which only alters the ownerOf function to point to another address during an active lending period 
+This is a pseudo loan technique which only alters the ownerOf function to point to another address during an active lending period.
+The original owner will maintain the token in their wallet and will not be able to sell/transfer during the lending period.
 
