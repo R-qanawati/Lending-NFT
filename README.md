@@ -4,11 +4,6 @@
 Built on top of Openzeppelins ERC721, this implementation allows users to lend their NFTs for ETH
 
 
-## Authors
-
-- [@R-qanawati](https://github.com/R-qanawati)
-
-
 ## Built on Solidity
 
 To use this implementation (post mint)
